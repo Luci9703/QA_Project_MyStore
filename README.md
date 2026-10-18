@@ -5,49 +5,32 @@
 
 ## 🎯 O projektu
 
-V rámci kurzu Manual Tester jsem pracovala s 
+V rámci kurzu Manual Tester jsem pracovala s testovací aplikací eshopu MyStore.  
+Cílem praktického cvičení bylo procházet jednotlivé funkce aplikace, identifikovat chyby a zaznamenávat nalezené defekty formou bug reportů v Jira. Při testování jsme měli k dispozici specifikaci aplikace a připravený test plan.
+V tomto repozitáři uvádím výběr nalezených chyb a ukázky jejich zpracování. Nejedná se o kompletní seznam všech defektů nalezených během testování.
 
 ## 🛠️ Použité nástroje
 
 - Jira
-- 
 
 ## 📋 Podklady
 
 - specifikace eshopu MyStore
-- 
+- System Test Plan
 
 ## 🧠 Jak jsem v projektu postupovala?
 
-Requirements / Documentation
-↓
-User Stories
-↓
-Acceptance Criteria
-↓
-Test Cases
-↓
-Traceability v Jira
+1. Seznámení s aplikací a podklady
+2. Procházení funkcionalit
+3. Identifikace chyb
+4. Tvorba Bug reportů
 
 ## 🗂️ Co projekt obsahuje
 
-- User Stories a Acceptance Criteria zpracované podle dokumentace
-- pozitivní a negativní test cases
-- testy hraničních hodnot
-- ukázky práce v Jira
-- propojení User Stories a Test Cases
-- screenshoty testovací dokumentace
-
-## 🔧 Přístup k návrhu testů
-
-- Pozitivní a negativní testovací případy
-- Equivalence Partitioning
-- Boundary Value Analysis
-
-## 🔗 Ukázka práce v Jira
-
-[sem později vložíme screenshot]
-
-## 📂 Struktura repozitáře
-
-[sem doplníme až podle toho, jaké složky skutečně vytvoříme]
+- výběr nalezených bugů
+- strukturované bug reporty
+- Steps to reproduce
+- Expected vs. Actual result
+- Priority
+- test environment
+- screenshoty nalezených chyb
