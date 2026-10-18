@@ -1,4 +1,4 @@
-# 🐞 Bug Reports
+# 🐞 Bug Reports in eshop MyStore
 
 ## Overview
 EXLORATORY TESTING
@@ -7,26 +7,23 @@ EXLORATORY TESTING
 
 ### 🐞 BUG 01: [HOMEPAGE] Nefunkční návrat na domovskou stránku přes logo.
 
-#### Typ:
-Funkční
-#### Priority:
-Medium
-#### Enviroment:
-OS Windows 11 Home, Google Chrome 64-bit
+#### Typ: Funkční
+#### Priority: Medium
+#### Enviroment: OS Windows 11 Home, Google Chrome 64-bit
 
 #### Preconditions:
 Uživatel je na domovské stránce eshopu MyStore.
 
-#### Kroky k reprodukci:
+#### Steps to reproduce:
 
 1. Přejdeme na stránku jinou než domovská stránka (např. accessories).
 2. Pro návrat na domovskou stránku klikneme na logo MyStore.
 
-#### Očekávaný výsledek:
+#### Expected result:
 
 Po kliknutí na logo MyStore je uživatel přesměrován na domovskou stránku.
 
-#### Skutečný výsledek:
+#### Actual result:
 
 Po kliknutí na logo MyStore nodejde k žádné reakci a uživatel zůstane na aktuální stránce.
 
@@ -37,28 +34,25 @@ Po kliknutí na logo MyStore nodejde k žádné reakci a uživatel zůstane na a
 
 ### 🐞 BUG 02: [DETAIL PRODUKTU] Nečitelný první řádek popisu produktu.
 
-#### Typ:
-UI
-#### Priority:
-Medium
-#### Enviroment:
-OS Windows 11 Home, Google Chrome 64-bit
+#### Typ: UI
+#### Priority: Medium
+#### Enviroment: OS Windows 11 Home, Google Chrome 64-bit
 
 #### Preconditions:
 Uživatel je na domovské stránce eshopu MyStore.
 
-#### Kroky k reprodukci:
+#### Steps to reproduce:
 
 1. Na domovské stránce vybereme sekci Clothes.
 2. Zvolíme sekci Men.
 3. Vybereme produkt “Hummingbird printed t-shirt” a zobrazíme detail produktu.
 4. Scrollujeme na description a zkontrolujeme text.
 
-#### Očekávaný výsledek:
+#### Expected result:
 
 Celý text popisu produktu je zobrazen stejnou barvou a je čitelný.
 
-#### Skutečný výsledek:
+#### Actual result:
 
 První řádek popisu produktu je zobrazen světlejší barvou než ostatní a je špatně čitelný.
 
@@ -69,26 +63,23 @@ První řádek popisu produktu je zobrazen světlejší barvou než ostatní a j
 
 ### 🐞 BUG 03: [VÝBĚR SEKCE] Nefunkční přesměrování na podkategorie v menu.
 
-#### Typ:
-Funkční
-#### Priority:
-Medium
-#### Enviroment:
-OS Windows 11 Home, Google Chrome 64-bit
+#### Typ: Funkční
+#### Priority: Medium
+#### Enviroment: OS Windows 11 Home, Google Chrome 64-bit
 
 #### Preconditions:
 Uživatel je na domovské stránce eshopu MyStore.
 
-#### Kroky k reprodukci:
+#### Steps to reproduce:
 
 1. V menu vybereme položku (např. Clothes).
 2. Klikneme na podkategorii (např. Men).
 
-#### Očekávaný výsledek:
+#### Expected result:
 
 Po zvolení podkategorie (např. Men) se stránka přesměruje a zobrazí všechny produkty, které do této podkategorie spadají.
 
-#### Skutečný výsledek:
+#### Actual result:
 
 Po zvolení podkategorie (např. Men) se stránka nepřesměruje, uživatel zůstane na aktuální stránce a  pouze se v URL přidá "#"
 
@@ -99,27 +90,24 @@ Po zvolení podkategorie (např. Men) se stránka nepřesměruje, uživatel zůs
 
 ### 🐞 BUG 04: [ZMĚNA MĚNY] Nefunguje změna měny z EUR na USD.
 
-#### Typ:
-Funkční
-#### Priority:
-High
-#### Enviroment:
-OS Windows 11 Home, Google Chrome 64-bit
+#### Typ: Funkční
+#### Priority: High
+#### Enviroment: OS Windows 11 Home, Google Chrome 64-bit
 
 #### Preconditions:
 Uživatel je na domovské stránce eshopu MyStore.
 
-#### Kroky k reprodukci:
+#### Steps to reproduce:
 
 1. Na webu MyStore vpravo nahoře je možnost změna měny.
 2. Kliknu na EUR a objeví se vyskakovací okno s možnostmi volby - EUR nebo USD.
 3. Vybereme možnost USD.
 
-#### Očekávaný výsledek:
+#### Expected result:
 
 Po změně měny se částky na celém webu zobrazí v amerických dolarech.
 
-#### Skutečný výsledek:
+#### Actual result:
 
 Po kliknutí na možnost USD se částky nemění a zůstávají nadále v EUR. 
 
@@ -130,27 +118,24 @@ Po kliknutí na možnost USD se částky nemění a zůstávají nadále v EUR.
 
 ### 🐞 BUG 05: [VYTVOŘENÍ ÚČTU] Tlačítko "Show" nezobrazí zadané heslo při vytváření účtu
 
-#### Typ:
-Funkční
-#### Priority:
-Medium
-#### Enviroment:
-OS Windows 11 Home, Google Chrome 64-bit
+#### Typ: Funkční
+#### Priority: Medium
+#### Enviroment: OS Windows 11 Home, Google Chrome 64-bit
 
 #### Preconditions:
 V košíku je minimálně 1 produkt a uživatel pokračuje tlačítkem “Proceed to checkout”. Vyplníme jméno, příjmení a email.
 
-#### Kroky k reprodukci:
+#### Steps to reproduce:
 
 1. Pod formulářem pro vyplnění osobních údajů je možnost vytvoření uživatelského účtu.
 2. Vyplníme heslo.
 3. Klikneme na tlačítko “Show” pro ukázání hesla.
 
-#### Očekávaný výsledek:
+#### Expected result:
 
 Po kliknutí na tlačítko “Show” se zobrazí heslo.
 
-#### Skutečný výsledek:
+#### Actual result:
 
 Po kliknutí na tlačítko “Show” se heslo neobjeví, je stále skryté.
 
