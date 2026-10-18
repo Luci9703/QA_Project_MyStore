@@ -53,7 +53,7 @@ Celý text popisu produktu je zobrazen stejnou barvou a je čitelný.
 První řádek popisu produktu je zobrazen světlejší barvou než ostatní a je špatně čitelný.
 
 #### Přílohy:
-![BUG-002 sc4](images/sc4.png)
+![BUG-002 SC4](images/SC4.png)
 <br>
 ---
 
