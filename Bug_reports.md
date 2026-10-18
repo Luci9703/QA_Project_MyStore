@@ -8,7 +8,7 @@
 #### Enviroment: OS Windows 11 Home, Google Chrome
 
 #### Preconditions:
-Uživatel je na domovské stránce eshopu MyStore.
+Uživatel má otevřený eshop MyStore.
 
 #### Steps to reproduce:
 
@@ -42,7 +42,7 @@ Uživatel je na domovské stránce eshopu MyStore.
 1. Na domovské stránce vybereme sekci Clothes.
 2. Zvolíme sekci Men.
 3. Vybereme produkt “Hummingbird printed t-shirt” a zobrazíme detail produktu.
-4. Scrollujeme na description a zkontrolujeme text.
+4. Přejdeme do sekce description a zkontrolujeme text.
 
 #### Expected result:
 
@@ -119,13 +119,14 @@ Po kliknutí na možnost USD se částky nemění a zůstávají nadále v EUR.
 #### Enviroment: OS Windows 11 Home, Google Chrome
 
 #### Preconditions:
-V košíku je minimálně 1 produkt a uživatel pokračuje tlačítkem “Proceed to checkout”. Vyplníme jméno, příjmení a email.
+V košíku je minimálně 1 produkt a uživatel se nachází na stránce v procesu objevnávky.
 
 #### Steps to reproduce:
 
-1. Pod formulářem pro vyplnění osobních údajů je možnost vytvoření uživatelského účtu.
-2. Vyplníme heslo.
-3. Klikneme na tlačítko “Show” pro ukázání hesla.
+1. Vyplníme jméno, příjmení a email.
+2. Zvolíme možnost vytvoření uživatelského účtu.
+3. Do pole heslo vyplníme platné heslo.
+4. Klikneme na tlačítko “Show” pro ukázání hesla.
 
 #### Expected result:
 
