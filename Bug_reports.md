@@ -58,7 +58,7 @@ Celý text popisu produktu je zobrazen stejnou barvou a je čitelný.
 První řádek popisu produktu je zobrazen světlejší barvou než ostatní a je špatně čitelný.
 
 #### Přílohy:
-![BUG-001 sc4](images/sc4.png)
+![BUG-002 sc4](images/sc4.png)
 <br>
 
 ### 🐞 BUG 03: [VÝBĚR SEKCE] Nefunkční přesměrování na podkategorie v menu.
@@ -85,7 +85,7 @@ Po zvolení podkategorie (např. Men) se stránka přesměruje a zobrazí všech
 Po zvolení podkategorie (např. Men) se stránka nepřesměruje, uživatel zůstane na aktuální stránce a  pouze se v URL přidá "#"
 
 #### Přílohy:
-![BUG-001 Snímek obrazovky (224).png](images/Snímek obrazovky (224).png)
+![BUG-003 Snímek obrazovky (224).png](images/Snímek obrazovky (224).png)
 <br>
 
 ### 🐞 BUG 04: [ZMĚNA MĚNY] Nefunguje změna měny z EUR na USD.
@@ -113,7 +113,7 @@ Po změně měny se částky na celém webu zobrazí v amerických dolarech.
 Po kliknutí na možnost USD se částky nemění a zůstávají nadále v EUR. 
 
 #### Přílohy:
-![BUG-001 sc7](images/sc7.png)
+![BUG-004 sc7](images/sc7.png)
 <br>
 
 ### 🐞 BUG 05: [VYTVOŘENÍ ÚČTU] Tlačítko "Show" nezobrazí zadané heslo při vytváření účtu
@@ -141,7 +141,7 @@ Po kliknutí na tlačítko “Show” se zobrazí heslo.
 Po kliknutí na tlačítko “Show” se heslo neobjeví, je stále skryté.
 
 #### Přílohy:
-![BUG-001 sc10](images/sc10.png)
+![BUG-005 sc10](images/sc10.png)
 
 
 
