@@ -1,15 +1,11 @@
 # 🐞 Bug Reports in eshop MyStore
 
-## Overview
-EXLORATORY TESTING
-
-
 
 ### 🐞 BUG 01: [HOMEPAGE] Nefunkční návrat na domovskou stránku přes logo.
 
 #### Typ: Funkční
 #### Priority: Medium
-#### Enviroment: OS Windows 11 Home, Google Chrome 64-bit
+#### Enviroment: OS Windows 11 Home, Google Chrome
 
 #### Preconditions:
 Uživatel je na domovské stránce eshopu MyStore.
@@ -36,7 +32,7 @@ Po kliknutí na logo MyStore nodejde k žádné reakci a uživatel zůstane na a
 
 #### Typ: UI
 #### Priority: Medium
-#### Enviroment: OS Windows 11 Home, Google Chrome 64-bit
+#### Enviroment: OS Windows 11 Home, Google Chrome
 
 #### Preconditions:
 Uživatel je na domovské stránce eshopu MyStore.
@@ -65,7 +61,7 @@ První řádek popisu produktu je zobrazen světlejší barvou než ostatní a j
 
 #### Typ: Funkční
 #### Priority: Medium
-#### Enviroment: OS Windows 11 Home, Google Chrome 64-bit
+#### Enviroment: OS Windows 11 Home, Google Chrome
 
 #### Preconditions:
 Uživatel je na domovské stránce eshopu MyStore.
@@ -92,7 +88,7 @@ Po zvolení podkategorie (např. Men) se stránka nepřesměruje, uživatel zůs
 
 #### Typ: Funkční
 #### Priority: High
-#### Enviroment: OS Windows 11 Home, Google Chrome 64-bit
+#### Enviroment: OS Windows 11 Home, Google Chrome
 
 #### Preconditions:
 Uživatel je na domovské stránce eshopu MyStore.
@@ -100,7 +96,7 @@ Uživatel je na domovské stránce eshopu MyStore.
 #### Steps to reproduce:
 
 1. Na webu MyStore vpravo nahoře je možnost změna měny.
-2. Kliknu na EUR a objeví se vyskakovací okno s možnostmi volby - EUR nebo USD.
+2. Klikneme na EUR a objeví se vyskakovací okno s možnostmi volby - EUR nebo USD.
 3. Vybereme možnost USD.
 
 #### Expected result:
@@ -120,7 +116,7 @@ Po kliknutí na možnost USD se částky nemění a zůstávají nadále v EUR.
 
 #### Typ: Funkční
 #### Priority: Medium
-#### Enviroment: OS Windows 11 Home, Google Chrome 64-bit
+#### Enviroment: OS Windows 11 Home, Google Chrome
 
 #### Preconditions:
 V košíku je minimálně 1 produkt a uživatel pokračuje tlačítkem “Proceed to checkout”. Vyplníme jméno, příjmení a email.
