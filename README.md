@@ -1,8 +1,6 @@
 # MyStore - QA project
 
 
-**MyStore**
-
 ## 🎯 O projektu
 
 V rámci kurzu Manual Tester jsem pracovala s testovací aplikací eshopu MyStore.  
