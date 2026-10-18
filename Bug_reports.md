@@ -1,4 +1,4 @@
-# 🐞 Bug Reports in eshop MyStore
+# Bug Reports in eshop MyStore
 
 
 ### 🐞 BUG 01: [HOMEPAGE] Nefunkční návrat na domovskou stránku přes logo.
@@ -80,7 +80,7 @@ Po zvolení podkategorie (např. Men) se stránka přesměruje a zobrazí všech
 Po zvolení podkategorie (např. Men) se stránka nepřesměruje, uživatel zůstane na aktuální stránce a  pouze se v URL přidá "#"
 
 #### Přílohy:
-![BUG-003 Snímek obrazovky (224).png](images/Snímek obrazovky (224).png)
+![BUG-003 sc224](images/sc224.png)
 <br>
 ---
 
