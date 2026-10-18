@@ -30,7 +30,7 @@ Po kliknutí na logo MyStore nodejde k žádné reakci a uživatel zůstane na a
 
 #### Přílohy:
 ![BUG-001 sc3](images/sc3.png)
-
+<br>
 
 ### 🐞 BUG 02: [DETAIL PRODUKTU] Nečitelný první řádek popisu produktu.
 
@@ -59,7 +59,7 @@ První řádek popisu produktu je zobrazen světlejší barvou než ostatní a j
 
 #### Přílohy:
 ![BUG-001 sc4](images/sc4.png)
-
+<br>
 
 ### 🐞 BUG 03: [VÝBĚR SEKCE] Nefunkční přesměrování na podkategorie v menu.
 
@@ -86,7 +86,7 @@ Po zvolení podkategorie (např. Men) se stránka nepřesměruje, uživatel zůs
 
 #### Přílohy:
 ![BUG-001 Snímek obrazovky (224).png](images/Snímek obrazovky (224).png)
-
+<br>
 
 ### 🐞 BUG 04: [ZMĚNA MĚNY] Nefunguje změna měny z EUR na USD.
 
@@ -114,7 +114,7 @@ Po kliknutí na možnost USD se částky nemění a zůstávají nadále v EUR.
 
 #### Přílohy:
 ![BUG-001 sc7](images/sc7.png)
-
+<br>
 
 ### 🐞 BUG 05: [VYTVOŘENÍ ÚČTU] Tlačítko "Show" nezobrazí zadané heslo při vytváření účtu
 
