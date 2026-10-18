@@ -141,6 +141,33 @@ Po kliknutí na tlačítko “Show” se heslo neobjeví, je stále skryté.
 <br>
 ---
 
+### 🐞 BUG 06: [ŘAZENÍ PRODUKTŮ] V seznamu řazení se zobrazují HTML značky
+
+#### Typ: UI
+#### Priority: Medium
+#### Enviroment: OS Windows 11 Home, Google Chrome
+
+#### Preconditions:
+Uživatel se nachází na stránce s produkty.
+
+#### Steps to reproduce:
+
+1. Klikeneme na možnost "Sort by".
+2. V rozbalovací nabídce se zobrazí možnosti řazení položek.
+3. Zkontrolujeme zobrazené možnosti řazení.
+
+#### Expected result:
+
+Možnosti řazení jsou zobrazeny správně.
+
+#### Actual result:
+
+Možnosti řazení jsou zobrazeny společně s HTML značkami a jsou špatně čitelné.
+
+#### Přílohy:
+![BUG-006 sc15](images/sc15.png)
+<br>
+
 
 
 
