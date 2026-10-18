@@ -8,9 +8,11 @@ EXLORATORY TESTING
 ### 🐞 BUG 01: [HOMEPAGE] Nefunkční návrat na domovskou stránku přes logo.
 
 #### Typ:
-#### Severity:
+Funkční
 #### Priority:
+Medium
 #### Enviroment:
+OS Windows 11 Home, Google Chrome 64-bit
 
 #### Preconditions:
 Uživatel je na domovské stránce eshopu MyStore.
@@ -31,13 +33,16 @@ Po kliknutí na logo MyStore nodejde k žádné reakci a uživatel zůstane na a
 #### Přílohy:
 ![BUG-001 sc3](images/sc3.png)
 <br>
+---
 
 ### 🐞 BUG 02: [DETAIL PRODUKTU] Nečitelný první řádek popisu produktu.
 
 #### Typ:
-#### Severity:
+UI
 #### Priority:
+Medium
 #### Enviroment:
+OS Windows 11 Home, Google Chrome 64-bit
 
 #### Preconditions:
 Uživatel je na domovské stránce eshopu MyStore.
@@ -60,13 +65,16 @@ První řádek popisu produktu je zobrazen světlejší barvou než ostatní a j
 #### Přílohy:
 ![BUG-002 sc4](images/sc4.png)
 <br>
+---
 
 ### 🐞 BUG 03: [VÝBĚR SEKCE] Nefunkční přesměrování na podkategorie v menu.
 
 #### Typ:
-#### Severity:
+Funkční
 #### Priority:
+Medium
 #### Enviroment:
+OS Windows 11 Home, Google Chrome 64-bit
 
 #### Preconditions:
 Uživatel je na domovské stránce eshopu MyStore.
@@ -87,13 +95,16 @@ Po zvolení podkategorie (např. Men) se stránka nepřesměruje, uživatel zůs
 #### Přílohy:
 ![BUG-003 Snímek obrazovky (224).png](images/Snímek obrazovky (224).png)
 <br>
+---
 
 ### 🐞 BUG 04: [ZMĚNA MĚNY] Nefunguje změna měny z EUR na USD.
 
 #### Typ:
-#### Severity:
+Funkční
 #### Priority:
+High
 #### Enviroment:
+OS Windows 11 Home, Google Chrome 64-bit
 
 #### Preconditions:
 Uživatel je na domovské stránce eshopu MyStore.
@@ -115,13 +126,16 @@ Po kliknutí na možnost USD se částky nemění a zůstávají nadále v EUR.
 #### Přílohy:
 ![BUG-004 sc7](images/sc7.png)
 <br>
+---
 
 ### 🐞 BUG 05: [VYTVOŘENÍ ÚČTU] Tlačítko "Show" nezobrazí zadané heslo při vytváření účtu
 
 #### Typ:
-#### Severity:
+Funkční
 #### Priority:
+Medium
 #### Enviroment:
+OS Windows 11 Home, Google Chrome 64-bit
 
 #### Preconditions:
 V košíku je minimálně 1 produkt a uživatel pokračuje tlačítkem “Proceed to checkout”. Vyplníme jméno, příjmení a email.
@@ -142,6 +156,9 @@ Po kliknutí na tlačítko “Show” se heslo neobjeví, je stále skryté.
 
 #### Přílohy:
 ![BUG-005 sc10](images/sc10.png)
+<br>
+---
+
 
 
 
