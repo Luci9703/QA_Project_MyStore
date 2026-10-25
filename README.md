@@ -26,9 +26,6 @@ V tomto repozitáři uvádím výběr nalezených chyb a ukázky jejich zpracov�
 ## 🗂️ Co projekt obsahuje
 
 - výběr nalezených bugů
-- strukturované bug reporty
-- Steps to reproduce
-- Expected vs. Actual result
-- Priority
-- test environment
+- strukturované bug reporty včetně Steps to reproduce, Expected/Actual result a Priority
+- informace o test environment
 - screenshoty nalezených chyb
