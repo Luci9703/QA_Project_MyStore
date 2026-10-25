@@ -1,9 +1,9 @@
-# MyStore - QA project
+# Testování e-shopu MyStore
 
 
 ## 🎯 O projektu
 
-V rámci kurzu Manual Tester od CodersLab jsem pracovala s testovací aplikací eshopu MyStore.  
+V rámci kurzu Manual Tester od CodersLab jsem pracovala na testování e-shopu MyStore.  
 Cílem praktického cvičení bylo procházet jednotlivé funkce aplikace, identifikovat chyby a zaznamenávat nalezené defekty formou bug reportů v Jira. Při testování jsme měli k dispozici specifikaci aplikace a připravený test plan.
 V tomto repozitáři uvádím výběr nalezených chyb a ukázky jejich zpracování. Nejedná se o kompletní seznam všech defektů nalezených během testování.
 
@@ -13,7 +13,7 @@ V tomto repozitáři uvádím výběr nalezených chyb a ukázky jejich zpracov�
 
 ## 📋 Podklady
 
-- specifikace eshopu MyStore
+- specifikace e-shopu MyStore
 - System Test Plan
 
 ## 🧠 Jak jsem v projektu postupovala?
