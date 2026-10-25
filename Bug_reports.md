@@ -5,7 +5,7 @@
 
 #### Typ: Funkční
 #### Priority: Medium
-#### Enviroment: OS Windows 11 Home, Google Chrome
+#### Enviroment: OS Windows 11 Home (64-bit), Google Chrome 155.0.8059.85 (64-bit)
 
 #### Preconditions:
 Uživatel má otevřený eshop MyStore.
@@ -32,7 +32,7 @@ Po kliknutí na logo MyStore nodejde k žádné reakci a uživatel zůstane na a
 
 #### Typ: UI
 #### Priority: Medium
-#### Enviroment: OS Windows 11 Home, Google Chrome
+#### Enviroment: OS Windows 11 Home (64-bit), Google Chrome 155.0.8059.85 (64-bit)
 
 #### Preconditions:
 Uživatel je na domovské stránce eshopu MyStore.
@@ -61,7 +61,7 @@ První řádek popisu produktu je zobrazen světlejší barvou než ostatní a j
 
 #### Typ: Funkční
 #### Priority: Medium
-#### Enviroment: OS Windows 11 Home, Google Chrome
+#### Enviroment: OS Windows 11 Home (64-bit), Google Chrome 155.0.8059.85 (64-bit)
 
 #### Preconditions:
 Uživatel je na domovské stránce eshopu MyStore.
@@ -88,7 +88,7 @@ Po zvolení podkategorie (např. Men) se stránka nepřesměruje, uživatel zůs
 
 #### Typ: Funkční
 #### Priority: High
-#### Enviroment: OS Windows 11 Home, Google Chrome
+#### Enviroment: OS Windows 11 Home (64-bit), Google Chrome 155.0.8059.85 (64-bit)
 
 #### Preconditions:
 Uživatel je na domovské stránce eshopu MyStore.
@@ -116,7 +116,7 @@ Po kliknutí na možnost USD se částky nemění a zůstávají nadále v EUR.
 
 #### Typ: Funkční
 #### Priority: Medium
-#### Enviroment: OS Windows 11 Home, Google Chrome
+#### Enviroment: OS Windows 11 Home (64-bit), Google Chrome 155.0.8059.85 (64-bit)
 
 #### Preconditions:
 V košíku je minimálně 1 produkt a uživatel se nachází na stránce v procesu objevnávky.
@@ -145,7 +145,7 @@ Po kliknutí na tlačítko “Show” se heslo neobjeví, je stále skryté.
 
 #### Typ: UI
 #### Priority: Medium
-#### Enviroment: OS Windows 11 Home, Google Chrome
+#### Enviroment: OS Windows 11 Home (64-bit), Google Chrome 155.0.8059.85 (64-bit)
 
 #### Preconditions:
 Uživatel se nachází na stránce s produkty.
