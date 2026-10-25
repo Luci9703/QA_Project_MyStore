@@ -158,7 +158,7 @@ Uživatel se nachází na stránce s produkty.
 
 #### Expected result:
 
-Možnosti řazení jsou zobrazeny správně.
+Možnosti řazení jsou zobrazeny správně bez HTML značek.
 
 #### Actual result:
 
