@@ -27,5 +27,5 @@ V tomto repozitáři uvádím výběr nalezených chyb a ukázky jejich zpracov�
 
 - výběr nalezených bugů
 - strukturované bug reporty včetně steps to reproduce, expected/actual result a priority
-- informace o test environment
+- informace o testovacím prostředí
 - screenshoty nalezených chyb
