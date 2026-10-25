@@ -14,7 +14,7 @@ V tomto repozitáři uvádím výběr nalezených chyb a ukázky jejich zpracov�
 ## 📋 Podklady
 
 - specifikace e-shopu MyStore
-- System Test Plan
+- MyStore Test Plan
 
 ## 🧠 Jak jsem v projektu postupovala?
 
