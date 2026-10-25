@@ -21,11 +21,11 @@ V tomto repozitáři uvádím výběr nalezených chyb a ukázky jejich zpracov�
 1. Seznámení s aplikací a podklady
 2. Procházení funkcionalit
 3. Identifikace chyb
-4. Tvorba Bug reportů
+4. Tvorba bug reportů
 
 ## 🗂️ Co projekt obsahuje
 
 - výběr nalezených bugů
-- strukturované bug reporty včetně Steps to reproduce, Expected/Actual result a Priority
+- strukturované bug reporty včetně steps to reproduce, expected/actual result a priority
 - informace o test environment
 - screenshoty nalezených chyb
